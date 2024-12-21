@@ -48,6 +48,14 @@ An interactive Streamlit-based web application to visualize the **Implied Volati
 
 ---
 
+![Volatility Surface Screenshot](interactive_app_ss.png)
+
+
+--- 
+
+)
+
+
 ## ⚙️ Installation
 
 ### 1. Clone the Repository
